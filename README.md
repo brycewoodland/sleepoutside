@@ -27,6 +27,8 @@ The SleepOutside website is a web application developed as part of a team projec
 
 Our team used Trello to manage tasks and collaborate on the "SleepOutside" project. I've given the link to the Trello Board as well as my video showcasing the website in the comment of my submission.
 
+You can visit our Trello Board here: [Trello Board](https://trello.com/b/tVj9zMjR/sleep-outside)
+
 ## My Contribution
 
 The parts that I worked on and included into the project include:
