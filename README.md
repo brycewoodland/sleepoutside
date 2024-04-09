@@ -6,7 +6,7 @@ Welcome to my SleepOutside Portfolio! This repository contains the project "Slee
 
 ## Description
 
-The SleepOutside website is a web application developed as part of a team project for the WDD 330 course. Use this as a starting point to complete the WDD 330 team activity: the SleepOutside web application. It scaffolds out a simple web app with Vite support to bundle up our assets.
+The SleepOutside website is a web application developed as part of a team project for the WDD 330 course.
 
 ## Prerequisites
 
