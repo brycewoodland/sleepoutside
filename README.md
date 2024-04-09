@@ -41,7 +41,9 @@ The parts that I worked on and included into the project include:
 
 ## Contact
 
-If you have any questions or concerns
+If you have any questions or concerns:
 
-- Email: woo17047@byui.edu
+Email: woo17047@byui.edu
+
+Bryce Woodland
   
