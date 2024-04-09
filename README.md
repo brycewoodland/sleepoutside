@@ -41,7 +41,7 @@ The parts that I worked on and included into the project include:
 
 ## Contact
 
-If you have any questions or concerns:
+If you have any questions or concerns, feel free to reach out:
 
 Email: woo17047@byui.edu
 
